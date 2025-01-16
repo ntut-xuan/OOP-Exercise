@@ -8,14 +8,13 @@ Hope you enjoy it.
 
 ## Section
 
-- Introduce to OOP
+- [Introduce to OOP](Introduce-to-OOP/Introduce-to-OOP.md)
 - Basic STL
 - C++ Class Introduction
 - Encapsulation
 - Inheritance and Polymorphism (Part I)
 - Inheritance and Polymorphism (Part II)
 - Composition & Interface
-
 
 ## Takeout
 
