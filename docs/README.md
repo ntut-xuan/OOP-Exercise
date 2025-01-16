@@ -8,7 +8,7 @@ Hope you enjoy it.
 
 ## Section
 
-- [Introduce to OOP](Introduce-to-OOP/Introduce-to-OOP.md)
+- [Introduce to OOP](/Introduce-to-OOP/Introduce-to-OOP.md)
 - Basic STL
 - C++ Class Introduction
 - Encapsulation
