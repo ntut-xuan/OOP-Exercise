@@ -37,7 +37,7 @@ We can practice the idea with code. It will look like this:
 
 <img src="../assets/Emoji-code.png" alt="Computer" style="zoom:67%;" />
 
-Actually it will look like this:
+Actually it will look likes:
 
 ```cpp
 Computer computer = Computer("It's a cool laptop", "16'' screen", true, false, "Doors 11", "Letni i11-48763", 0.88, 0.78);
@@ -48,3 +48,11 @@ computer.setBrightness(0.66); // Set brightness from 78% into 66%
 
 double brightness = computer.GetBrightness(); // Return 0.66 (66%)
 ```
+
+The above code shows how the OOP works. With Computer class, we can put some attribute into Computer class, and create a computer object.
+
+We can control the object by using its function. For example, we can call `GetName()` function to get name and call `setBrightness(0.66)` to set the brightness into 66%.
+
+Compare previous examples, we can put any attributes and it will create the computer by the attributes. We don't need to create lot of variables to describe a laptop. Instead, we use only one object to present laptop, which is more clarify and easy to know.
+
+In this section, we provide some example to describe how OOP works. In the next section, we will describe some topic about OOP with an overview. It will help when you deep into these topic.
