@@ -1,4 +1,4 @@
-# Section 1: Introduce to OOP
+# Chapter 1: Introduce to OOP
 
 In this section, we will trying to provide an overview of OOP with an simple example about laptop.
 

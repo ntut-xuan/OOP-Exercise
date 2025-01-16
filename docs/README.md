@@ -6,7 +6,7 @@ In this project, we will trying to provide a OOP tutorial and exercise. The base
 
 Hope you enjoy it.
 
-## Section
+## Chapter
 
 - [Introduce to OOP](/Introduce-to-OOP/Introduce-to-OOP.md)
 - Basic STL

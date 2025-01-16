@@ -55,4 +55,4 @@ We can control the object by using its function. For example, we can call `GetNa
 
 Compare previous examples, we can put any attributes and it will create the computer by the attributes. We don't need to create lot of variables to describe a laptop. Instead, we use only one object to present laptop, which is more clarify and easy to know.
 
-In this section, we provide some example to describe how OOP works. In the next section, we will describe some topic about OOP with an overview. It will help when you deep into these topic.
+In this section, we provide some example to describe how OOP works. In the next section, we will describe some topic about OOP with an overview. It will help when you deep dive these topic.
