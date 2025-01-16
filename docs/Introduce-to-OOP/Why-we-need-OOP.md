@@ -1,6 +1,6 @@
-## Why we need OOP?
+# Why we need OOP?
 
-### Define the issue
+## Define the issue
 
 Imagine we trying to describe this laptop...
 
@@ -83,7 +83,7 @@ In this case, the code should be work. But have some issue:
 
   For example: `operating_system_1`, `operating_system_2`, and `operating_system_3` have the same attributes `operating_system`.
 
-### Movitation
+## Movitation
 
 Maybe we can extract the attribute?
 

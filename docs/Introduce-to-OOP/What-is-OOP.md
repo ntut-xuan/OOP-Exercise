@@ -1,6 +1,6 @@
-## What's OOP
+# What's OOP
 
-### Introduce to OOP
+## Introduce to OOP
 
 OOP is a principle that have object concept.
 
@@ -9,7 +9,7 @@ OOP is a principle that have object concept.
 
 <img src="../assets/Blueprint-to-computer.png" alt="Computer" style="zoom: 50%;" />
 
-### How do you design a class
+## How do you design a class
 
 In the following image, the blueprint (class) can split into two parts. One is member, and another is function.
 
@@ -19,19 +19,19 @@ In the following image, the blueprint (class) can split into two parts. One is m
 
 <img src="../assets/Blueprint-member-and-function.png" alt="Computer" style="zoom:67%;" />
 
-### How do you implement a object
+## How do you implement a object
 
 Once we have a blueprint, we can setup some attribute and implement a laptop as a object.
 
 <img src="../assets/Blueprint-to-laptop.png" alt="Computer" style="zoom:67%;" />
 
-### Control the object
+## Control the object
 
 When we have a object (that is, laptop), we can control the laptop with function!
 
 <img src="../assets/Laptop-control.png" alt="Computer" style="zoom:67%;" />
 
-### How do we write the code
+## How do we write the code
 
 We can practice the idea with code. It will look like this:
 
