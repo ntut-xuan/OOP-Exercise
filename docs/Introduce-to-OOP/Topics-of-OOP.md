@@ -5,7 +5,7 @@ After we talk about the basic concept of OOP, we will provide some topics of OOP
 There is the OOP topic we provide:
 
 - Class and Object
-- Encapsulation
+- [Encapsulation](./Encapsulation.md)
 - Inheritance
 - Polymorphism
 - Composition
