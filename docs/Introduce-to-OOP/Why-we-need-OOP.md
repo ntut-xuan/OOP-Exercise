@@ -99,8 +99,6 @@ Therefore, we can construct three computer with only three lines of code!
 
 <img src="../assets/Blueprint-function-to-computer.png" alt="Computer" style="zoom: 50%;" />
 
-### Conclusion
+We put some specific attributes, the constructor will create the laptop based on our attributes. The code will be more clarify and easy to know.
 
-In this section, we already let you know about why we need OOP and how it looks like.
-
-Next, we will provide some overview of important OOP concept for you.
+It's a good movitation to optimize our code. In next section, we will describe what's OOP and what actually it look likes.
